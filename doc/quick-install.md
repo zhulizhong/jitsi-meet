@@ -1,4 +1,4 @@
-# Jitsi Meet quick install
+# Jitsi Meet 快速安装手册
 
 This guide helps you  ___host your own Jitsi server___. If you want to have a video conference without setting up any infrastructure, use https://meet.jit.si instead.
 
